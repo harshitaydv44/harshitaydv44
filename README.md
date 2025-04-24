@@ -1,7 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Harshita Yadav 
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Harshita Yadav!
 =======================================================================================================================================
 
-Emerging web developer and designer.
+Emerging web developer and designer
 ----------------------------------
 
 I'm a MERN stack(React,Node.js,Express.js,MongoDB) web developer with a strong foundation in Data Structures and Algorithms using C++. 
@@ -81,11 +81,7 @@ I enjoy building scalable applications and continuously learning new technologie
   </a>
 </p>
 
-<p align="center">
-  <a href="http://www.github.com/harshitaydv44">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshitaydv44&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-  </a>
-</p>
+
 
 <p align="center">
   <a href="https://github.com/harshitaydv44" align="left">
